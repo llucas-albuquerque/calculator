@@ -1,6 +1,6 @@
 # calculator
 
-Calculadora desenvolvida em JavaScript, utilizando os métodos nativos do JavaScript:
+Calculadora desenvolvida, utilizando os métodos nativos do JavaScript:
 * Number() - para converter valores em números;
 * Prompt() - para registrar entrada de usuário;
 * Alert() - para mostrar mensagem ao usuário;
